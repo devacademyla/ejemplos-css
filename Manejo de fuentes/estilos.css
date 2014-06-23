@@ -1,0 +1,25 @@
+body {
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 3em;
+	text-align: center;
+}
+h2 { font-size: 1.5em }
+p {
+	font-size: 1em;
+	text-indent: 2em;
+}
+
+strong { font-weight: normal; }
+
+#arial {
+	font-family: Arial;
+}
+#times {
+	font-family: "Times New Roman";
+}
+.especial {
+	font-family: 'Indie Flower', cursive;
+}
