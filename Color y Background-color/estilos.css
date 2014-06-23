@@ -1,0 +1,27 @@
+div {
+	color: white;
+	text-align: center;
+	width: 100%;
+}
+
+#rojo {
+	background-color: red;
+}
+#naranja {
+	background-color: orange;
+}
+#amarillo {
+	background-color: yellow;
+}
+#verde {
+	background-color: green;
+}
+#celeste {
+	background-color: lightblue;
+}
+#azul {
+	background-color: blue;
+}
+#morado {
+	background-color: darkmagenta;
+}
