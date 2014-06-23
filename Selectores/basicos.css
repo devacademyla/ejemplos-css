@@ -1,0 +1,36 @@
+/* Selector Universal */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Selectores de etiqueta */
+h1 {
+  color: red;
+}
+ 
+h2 {
+  color: blue;
+}
+ 
+p {
+  color: black;
+}
+
+/* Selector descendente */
+p span { color: red; }
+
+/* Selector de clase */
+.aviso {
+  padding: 0.5em;
+  border: 1px solid #98be10;
+  background: #f6feda;
+}
+ 
+.error {
+  color: #930;
+  font-weight: bold;
+}
+
+/* Selector de ID */
+#destacado { color: red; }

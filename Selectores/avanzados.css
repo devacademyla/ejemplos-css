@@ -1,0 +1,8 @@
+/* Selector de hijos */
+p > strong { color: blue; }
+
+/* Selector Adyacente */
+article + span { color: red }
+
+/* Selector de atributos */
+a[href="http://devacademy.la/"]{ color: #234478; }

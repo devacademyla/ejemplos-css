@@ -1,0 +1,16 @@
+nav {
+	background-color: blue;
+	text-align: center;
+}
+ul li {
+	display: inline;
+}
+ul li a {
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+}
+ul li a:hover{
+	color:black;
+	background-color: white;
+}
